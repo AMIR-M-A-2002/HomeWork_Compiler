@@ -7,10 +7,10 @@ Grammars are in "Password.g4" and Generated Python Files are located in "gen" fo
 you can test this project by running the "Main.py" file which is located in "gen" folder
 
 first of all the password you set should have at least 8 characters including :
-  *English characters
-  *Numbers
-  *Symbols
-  *Not including any White Space
+  - English characters
+  - Numbers
+  - Symbols
+  - Not including any White Space
 
 
 At first the program ask you to set a Password and then after that it tells you to check the Password like images below
