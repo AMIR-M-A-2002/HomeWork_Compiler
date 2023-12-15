@@ -10,7 +10,7 @@ first of all the password you set should have at least 8 characters including :
   - English characters
   - Numbers
   - Symbols
-  - Not including any White Space
+  - Not including any WhiteSpaces
 
 
 At first the program ask you to set a Password and then after that it tells you to check the Password like images below
