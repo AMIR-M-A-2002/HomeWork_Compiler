@@ -2,6 +2,10 @@
 # Generating a Password Checker
 In this project i generated a Password Checker by ANTLR4 that can check the password which you set before
 
+Grammars are in "Password.g4" and Generated Python Files are located in "Gen" folder
+
+you can test this project by running the "Main.py" file which is located in "gen" folder
+
 first of all the password you set should have at least 8 characters including :
   *English characters
   *Numbers
