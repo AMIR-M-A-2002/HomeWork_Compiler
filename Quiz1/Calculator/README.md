@@ -2,7 +2,7 @@
 
 grammers are located in "Calculator.g4" file
 
-the grammer detects parantheses and power operands 
+the grammer detects parantheses and power operands ;
 Generated files are located in "gen" folder (Lexer , Parser ,...)
 
 to use this project u should open the "main.py" file located in "gen" folder
